@@ -1,2 +1,3 @@
 # CC50
-Desafios propostos pelos Pset's.
+
+- Desafios resolvidos dos Problemas de Set do curso introdutório à Ciência da Computação 50.
